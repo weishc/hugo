@@ -90,13 +90,13 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "About LoveIt Theme"
+      description = "Wei-Xiang Chen, Houdini FX Artist"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Wei-Xiang Chen", "Houdini", "VFX", "Python"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "LoveIt"
+        title = "Wei-Xiang Chen"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -251,13 +251,13 @@ enableEmoji = true
         weight = 6
     [languages.zh-tw.params]
       # 網站描述
-      description = "關於 LoveIt 主題"
+      description = "Wei-Xiang Chen, Houdini FX Artist"
       # 網站關鍵詞
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Wei-Xiang Chen", "Houdini", "VFX", "Python"]
       # 應用圖標配置
       [languages.zh-tw.params.app]
         # 當添加到 iOS 主屏幕或者 Android 啟動器時的標題, 覆蓋默認標題
-        title = "LoveIt"
+        title = "Wei-Xiang Chen"
         # 是否隱藏網站圖標資源鏈接
         noFavicon = false
         # 更現代的 SVG 網站圖標, 可替代舊的 .png 和 .ico 文件
@@ -301,9 +301,9 @@ enableEmoji = true
           # 主頁顯示頭像的 URL
           avatarURL = "https://avatars.githubusercontent.com/u/61315168?s=400&v=4"
           # 主頁顯示的網站標題 (支持 HTML 格式)
-          title = "Weishc"
+          title = "陳威翔"
           # 主頁顯示的網站副標題
-          subtitle = "一個簡潔、優雅且高效的 Hugo 主題"
+          subtitle = "Houdini FX Artist"
           # 是否為副標題顯示打字機動畫
           typeit = true
           # 是否顯示社交賬號
