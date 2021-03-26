@@ -15,3 +15,4 @@ git remote add origin https://github.com/weishc/hugo
 git add .
 git commit -m "update-hugo-file"
 git push -f origin master
+rmdir /s/q public

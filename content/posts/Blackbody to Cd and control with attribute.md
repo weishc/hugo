@@ -2,6 +2,8 @@
 title: "Blackbody to Cd and control with attribute"
 date: "2021-03-26"
 draft: false
+categories: Houdini
+tags: Houdini,Blackbody,shader,mantra
 ---
 # Blackbody to Cd and control with attribute
 
@@ -23,5 +25,3 @@ color space transform from XYZ to RGB
 
 ![](https://i.imgur.com/sn0A4uR.png)
 
-
-###### tags: `Houdini` `Blackbody` `shader` `mantra`
