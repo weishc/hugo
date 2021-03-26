@@ -2,8 +2,8 @@
 title: "Blackbody to Cd and control with attribute"
 date: "2021-03-26"
 draft: false
-categories: Houdini
-tags: Houdini,Blackbody,shader,mantra
+categories: [Houdini]
+tags: [Houdini,Blackbody,shader,mantra]
 ---
 # Blackbody to Cd and control with attribute
 
