@@ -1,13 +1,17 @@
 ---
 title: "使用UV刪除相機外的點"
-date: "2021-03-12"
+date: "2021-03-26"
 draft: false
 ---
 # 使用UV刪除相機外的點
 
-刪體積用group比較方便
+刪體積用volume節點配合volume mix/vdb combine去刪除會比較方便
+---
 
 ![](https://i.imgur.com/MTlr7Ul.png)
+
+point wrangle:
+---
 
 ```
 float margin = chf('margin');

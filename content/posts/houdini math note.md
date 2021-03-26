@@ -1,21 +1,21 @@
 ---
-title: "Houdini 數學應用筆記"
-date: "2021-03-12"
+title: "Houdini math note"
+date: "2021-03-26"
 draft: false
 ---
-# Houdini 數學應用筆記
+# Houdini math note
 
 
-dot product 判斷v大致方向（銳角or鈍角）
+dot product:Determine the general direction of velocity.(acute angle or obtuse angle)
 ---
 
-假設要判斷@v與x軸為銳角or鈍角
+In order to determine that the Angle between @v and the X-axis is acute or obtuse.
 
 x=(1,0,0)
 
-if (@v dot x) >0 =往x軸 else ＝ 往反向
+if (@v dot x) > 0 = +x, else ＝ opposite direction
 
-dot product 求兩向量之夾角
+dot product Find the angle between two vectors.
 ---
 ```
 vector a = set(0,1,0);
@@ -25,7 +25,7 @@ f@angle=degrees(acos(dot(a, b)/length(a)*length(b)));
 
 @angle=90
 
-也可寫成
+Also, it can be written as:
 
 ```
 vector a = normalize(set(0,1,0));
@@ -33,6 +33,6 @@ vector b = normalize(set(1,0,0));
 f@angle=degrees(acos(dot(a, b)/a*b));
 ```
 
-同理可應用在cosθ=0,1,-1分別代表同向,垂直,反向
+Similarly, when cos = 0,1, and -1, they are going in the same direction, perpendicular, and opposite.
 
 ###### tags: `vex` `math` `Houdini`

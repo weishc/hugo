@@ -1,13 +1,17 @@
 ---
-title: "使用UV刪除相機外的點"
-date: "2021-03-12"
+title: "Camera frustum with UV"
+date: "2021-03-26"
 draft: false
 ---
-# 使用UV刪除相機外的點
+# Camera frustum with UV
 
-刪體積用group比較方便
+For delete volume, I suggest tha volume node with volume mix/vdb combine.
+---
 
 ![](https://i.imgur.com/MTlr7Ul.png)
+
+point wrangle:
+---
 
 ```
 float margin = chf('margin');
