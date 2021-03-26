@@ -2,6 +2,8 @@
 title: "Vellum布料筆記"
 date: "2021-03-12"
 draft: false
+categories: [Houdini]
+tags: [Houdini,CFX,Vellum,H18]
 ---
 # Vellum Cloth note
 
@@ -63,5 +65,3 @@ Method 2：Vellum softbody structure
 
 絲綢,牛仔布料,皮革：https://www.sidefx.com/tutorials/h17-vellum-cloth-lookdev-tips/
 
-
-###### tags: `Houdini` `CFX` `Vellum` `H18`

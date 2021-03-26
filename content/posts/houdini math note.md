@@ -2,6 +2,8 @@
 title: "Houdini math note"
 date: "2021-03-26"
 draft: false
+categories: [Houdini]
+tags: [vex,math]
 ---
 # Houdini math note
 
@@ -35,4 +37,3 @@ f@angle=degrees(acos(dot(a, b)/a*b));
 
 Similarly, when cos = 0,1, and -1, they are going in the same direction, perpendicular, and opposite.
 
-###### tags: `vex` `math` `Houdini`

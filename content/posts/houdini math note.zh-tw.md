@@ -2,6 +2,8 @@
 title: "Houdini 數學應用筆記"
 date: "2021-03-12"
 draft: false
+categories: [Houdini]
+tags: [vex,math]
 ---
 # Houdini 數學應用筆記
 
@@ -35,4 +37,3 @@ f@angle=degrees(acos(dot(a, b)/a*b));
 
 同理可應用在cosθ=0,1,-1分別代表同向,垂直,反向
 
-###### tags: `vex` `math` `Houdini`

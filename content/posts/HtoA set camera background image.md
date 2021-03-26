@@ -2,6 +2,8 @@
 title: "HtoA set camera background image"
 date: "2021-03-12"
 draft: false
+categories: [Houdini]
+tags: [Htoa,Houdini,Arnold,ROP,out,render]
 ---
 
 # HtoA set camera background image

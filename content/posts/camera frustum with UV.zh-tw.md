@@ -2,6 +2,8 @@
 title: "使用UV刪除相機外的點"
 date: "2021-03-26"
 draft: false
+categories: [Houdini]
+tags: [Houdini,VEX]
 ---
 # 使用UV刪除相機外的點
 

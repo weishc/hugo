@@ -2,6 +2,8 @@
 title: "Blackbody 轉換成 Cd 並且用屬性控制"
 date: "2021-03-26"
 draft: false
+categories: [Houdini]
+tags: [Houdini,Blackbody,shader,mantra]
 ---
 # Blackbody 轉換成 Cd 並且用屬性控制
 

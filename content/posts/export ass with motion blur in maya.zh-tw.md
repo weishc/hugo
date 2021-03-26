@@ -2,6 +2,8 @@
 title: "Maya輸出帶motion blur的ass"
 date: "2021-03-26"
 draft: false
+categories: [Houdini]
+tags: [Maya,Arnold,MtoA,ASS,motionblur]
 ---
 # Maya輸出帶motion blur的ass
 

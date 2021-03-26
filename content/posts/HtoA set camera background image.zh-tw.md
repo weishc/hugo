@@ -2,6 +2,8 @@
 title: "HtoA 設定鏡頭的背景圖"
 date: "2021-03-12"
 draft: false
+categories: [Houdini]
+tags: [Htoa,Houdini,Arnold,ROP,out,render]
 ---
 # HtoA 設定鏡頭的背景圖
 
@@ -20,4 +22,3 @@ r用Screen X,g用Screen Y
 
 ![](https://i.imgur.com/gtCIqPJ.png)
 
-###### tags: `Htoa` `Houdini` `Arnold` `ROP` `out` `render`
